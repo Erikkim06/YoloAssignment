@@ -1,5 +1,6 @@
 # YoloAssignment
 Port: 8080
+
 Endpoint: /game
 
 localhost:8080/game
